@@ -1,8 +1,10 @@
 {
-    "name": "Have Fun",
+    "lang": "zh-CN",
+    "name": "Share More, Gain More",
     "short_name": "Hao",
     "start_url": "/coding",
     "display": "standalone",
+    "orientation":"natural",
     "background_color": "#fff",
     "theme_color": "#007ACC",
     "icons": [
