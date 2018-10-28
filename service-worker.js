@@ -21,11 +21,11 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "9122a7e5c357f3320f1753446ac9cc48"
+    "revision": "7afb6a4edb2699dc1eb9463c79a9443c"
   },
   {
     "url": "about/index.html",
-    "revision": "275d2c6f09ceed55f62ccb535272f8fa"
+    "revision": "38b95bd8e9307ce29b8e2f35fe8f946c"
   },
   {
     "url": "assets/css/3.styles.b18a32be.css",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "revision": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
-    "url": "assets/css/styles.b977f5f5.css",
+    "url": "assets/css/styles.8f687047.css",
     "revision": "1c4fb83dfcac86247c07167347aa661f"
   },
   {
@@ -128,44 +128,44 @@ self.__precacheManifest = [
     "revision": "3a1c4618bb27a9c715644b4ad9674f2a"
   },
   {
-    "url": "assets/js/app.b977f5f5.js",
-    "revision": "b8200758146e8aa1122fab5f084781bb"
+    "url": "assets/js/app.8f687047.js",
+    "revision": "e05af477cd41eafa5e4136b51e7c01b2"
   },
   {
     "url": "coding/1stprogram.html",
-    "revision": "f9a128fc8699a02f3c1bf471639e32ee"
+    "revision": "7265268bc08abd1b758e1281ff1def92"
   },
   {
     "url": "coding/2intcompare.html",
-    "revision": "f54a71a5d58d2fb481c91f6c1831402b"
+    "revision": "b9f77b5525e3dba38cb8fd810b2a8848"
   },
   {
     "url": "coding/cnote.html",
-    "revision": "8abacee9cb3b304aba68dbb2fc53f581"
+    "revision": "a4996a3f8648642259e4dd7337932869"
   },
   {
     "url": "coding/environment.html",
-    "revision": "2348450c8bd5318b1a042d8ff3ce11e0"
+    "revision": "e29ad2822acc91d8ae0137c98af80eca"
   },
   {
     "url": "coding/index.html",
-    "revision": "f01b70a7df5b98410a9c5e290c994957"
+    "revision": "e3d40ac2af8c63403329221006e72d30"
   },
   {
     "url": "computer/index.html",
-    "revision": "139305fc9bc958c11b75a68b85987630"
+    "revision": "e1287a1e0b2a0d0c24e0bd82b2a92e02"
   },
   {
     "url": "guide/index.html",
-    "revision": "316109491d4a835c3b6cabc49f4acf86"
+    "revision": "568803fea2c38ad54787e6ed7972a5fb"
   },
   {
     "url": "index.html",
-    "revision": "6d304f609b8f93510525d682cc2d5555"
+    "revision": "77330e6d5e7dfb5c1ada9ba3407a9624"
   },
   {
     "url": "jiang/index.html",
-    "revision": "ea3870af522121a750f9feed435c683e"
+    "revision": "ae20a9838c57fa898cfe302d4eb9dea7"
   },
   {
     "url": "Od.png",
