@@ -1,8 +1,10 @@
 {
-    "lang": "zh-CN",
-    "name": "Share More, Gain More",
+    "lang": "zh",
+    "name": "L.H Blog",
     "short_name": "Hao",
-    "start_url": "/coding",
+    "description": "Share More, Gain More.",
+    "scope": "/",
+    "start_url": "/coding/",
     "display": "standalone",
     "orientation":"natural",
     "background_color": "#fff",
