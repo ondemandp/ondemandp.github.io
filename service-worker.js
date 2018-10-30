@@ -21,11 +21,11 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "da9f00dcfa9d9c6ca4d6e92b851a4824"
+    "revision": "4756dc66745063cd85bde00e2fc84c37"
   },
   {
     "url": "about/index.html",
-    "revision": "9e43bc18a0d1912cfcd93ab8de88642c"
+    "revision": "5bd0d65b63ede38f3927fb3c94e822b3"
   },
   {
     "url": "assets/css/1.styles.f07b7644.css",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "revision": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
-    "url": "assets/css/styles.3f3b8905.css",
+    "url": "assets/css/styles.f2dec94d.css",
     "revision": "1c4fb83dfcac86247c07167347aa661f"
   },
   {
@@ -84,8 +84,8 @@ self.__precacheManifest = [
     "revision": "d2acb337d4b8006da72fb0d1bb7713cb"
   },
   {
-    "url": "assets/js/7.7bf47816.js",
-    "revision": "cc190ab78336e0f929000e8d52400931"
+    "url": "assets/js/7.9edc62e4.js",
+    "revision": "fbcecd7c0f7ef649e2d77eb337108224"
   },
   {
     "url": "assets/js/8.76ecd591.js",
@@ -96,24 +96,24 @@ self.__precacheManifest = [
     "revision": "81067cb31bb9e99903c9f1f425670fb4"
   },
   {
-    "url": "assets/js/app.3f3b8905.js",
-    "revision": "d86c2ebcb7d39f7846b470106f779d92"
+    "url": "assets/js/app.f2dec94d.js",
+    "revision": "b6b1b64fef80e5391f93570f79314d60"
   },
   {
     "url": "coding/1stprogram.html",
-    "revision": "da58c51b3e1797495422e443f8962437"
+    "revision": "c7fd2beb71fe48b78c700501329cfe93"
   },
   {
     "url": "coding/2intcompare.html",
-    "revision": "2a04729dd03f3057acf3d445b77bba3b"
+    "revision": "e146605200243316bddba9ded3f76dd2"
   },
   {
     "url": "coding/cnote.html",
-    "revision": "b978c9bd451c3dda36ecad984c011ad5"
+    "revision": "dbee15c41d8480b04a8541ba71ffcc44"
   },
   {
     "url": "coding/environment.html",
-    "revision": "3ad73469a53ce93b13847de8033bc596"
+    "revision": "08d36f4d14c2622c20215b06d87b7aec"
   },
   {
     "url": "coding/images/create1.jpg",
@@ -153,23 +153,23 @@ self.__precacheManifest = [
   },
   {
     "url": "coding/index.html",
-    "revision": "f15746a94175cffba24ef76e36ee4091"
+    "revision": "21776c807f3102e4250739e1baf3accc"
   },
   {
     "url": "computer/index.html",
-    "revision": "728e437bc08f30143deae687d5440d90"
+    "revision": "9a4140717ddd9af248bd90101cbb747d"
   },
   {
     "url": "guide/index.html",
-    "revision": "e674db8c74f34da01286cbe4349f3d69"
+    "revision": "4f6de1b4a67d24ff3b7a49df5c145127"
   },
   {
     "url": "index.html",
-    "revision": "ab51474bed4055c414d0db46284694f8"
+    "revision": "5f2a7b8431b728b6125f8315f32be97a"
   },
   {
     "url": "jiang/index.html",
-    "revision": "80ec44aab4c95a09b562a82aea203bae"
+    "revision": "67eac92301df12fe2d6d4d0c7e343bfb"
   },
   {
     "url": "Od.png",
@@ -177,10 +177,10 @@ self.__precacheManifest = [
   },
   {
     "url": "test/index.html",
-    "revision": "82b9b9d60ec77cdc35f84b93e7a93294"
+    "revision": "4568511d41cb2818060e9a1f64a1b2da"
   },
   {
-    "url": "Valine.js",
+    "url": "valine.js",
     "revision": "d36865546f90020bbe30c199b8dd8f3d"
   }
 ].concat(self.__precacheManifest || []);
