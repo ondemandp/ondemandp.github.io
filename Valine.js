@@ -1,3 +1,4 @@
+
 var valine = new Valine();
 valine.init({
     el: '#vcomments',
@@ -8,4 +9,4 @@ valine.init({
     appKey: 'WtEwE1f5oBUdDkUcgR4QcAIP',
     placeholder: 'Say something',
     avatar: hide,
-})
+});
