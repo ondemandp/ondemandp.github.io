@@ -1,7 +1,7 @@
 {
-    "lang": "zh",
-    "name": "L.H Blog",
-    "short_name": "Hao",
+    "lang": "zh-CN",
+    "name": "L.H Document",
+    "short_name": "L.H Doc",
     "description": "Share More, Gain More.",
     "scope": "/",
     "start_url": "/coding/",
