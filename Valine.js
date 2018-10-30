@@ -1,6 +1,5 @@
 
-var valine = new Valine();
-valine.init({
+new Valine({
     el: '#vcomments',
     notify: true,
     verify: true,
@@ -9,4 +8,4 @@ valine.init({
     appKey: 'WtEwE1f5oBUdDkUcgR4QcAIP',
     placeholder: 'Say something',
     avatar: hide,
-});
+})

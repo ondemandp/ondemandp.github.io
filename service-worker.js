@@ -21,11 +21,11 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "88fab0414973ed308a3a234414a5ca90"
+    "revision": "031d2c5f341ee190090de16ddba99f79"
   },
   {
     "url": "about/index.html",
-    "revision": "37e9fef9e666dace12c4fd16ce50bbf6"
+    "revision": "af28c35ec0e6621b35d6fa79aaabc779"
   },
   {
     "url": "assets/css/1.styles.f07b7644.css",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "revision": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
-    "url": "assets/css/styles.ebbc94ba.css",
+    "url": "assets/css/styles.d2442612.css",
     "revision": "1c4fb83dfcac86247c07167347aa661f"
   },
   {
@@ -84,8 +84,8 @@ self.__precacheManifest = [
     "revision": "d2acb337d4b8006da72fb0d1bb7713cb"
   },
   {
-    "url": "assets/js/7.99872d08.js",
-    "revision": "586f4514163a6695b58a1b48d6c9e6b8"
+    "url": "assets/js/7.a3627a5f.js",
+    "revision": "b056873a740d6a92d3a8b2f89a8f08b9"
   },
   {
     "url": "assets/js/8.76ecd591.js",
@@ -96,24 +96,24 @@ self.__precacheManifest = [
     "revision": "81067cb31bb9e99903c9f1f425670fb4"
   },
   {
-    "url": "assets/js/app.ebbc94ba.js",
-    "revision": "b433cefca930ae5441c0d1c2fdcaf551"
+    "url": "assets/js/app.d2442612.js",
+    "revision": "a02b8f78682072d57e932d34d9e45b0b"
   },
   {
     "url": "coding/1stprogram.html",
-    "revision": "c925b78f3bcbe75517da3866ce94910c"
+    "revision": "92b37739dcc240b2d6aed8f6f5c9f532"
   },
   {
     "url": "coding/2intcompare.html",
-    "revision": "19d74be69d897d17b15ba0af26142b0d"
+    "revision": "0b7246a1f7d2de7b1e33637271f75656"
   },
   {
     "url": "coding/cnote.html",
-    "revision": "41728b193410eae74d6a4b735ae9757e"
+    "revision": "fe6fc79579151185973246cf77a77783"
   },
   {
     "url": "coding/environment.html",
-    "revision": "59bced529f0f0f7cb6454f2e99f159e6"
+    "revision": "6350c16137c5a0169fc5365c24299cee"
   },
   {
     "url": "coding/images/create1.jpg",
@@ -153,23 +153,23 @@ self.__precacheManifest = [
   },
   {
     "url": "coding/index.html",
-    "revision": "4f9a974914cedc6fffc055a57e93300a"
+    "revision": "a0633c59d5aa18db60dbaa164bc2c51b"
   },
   {
     "url": "computer/index.html",
-    "revision": "2de20bf2a2b0ab3f33ff32a8569e7c8c"
+    "revision": "3d1aa9f20f6b7121ff4c1d0dea621fef"
   },
   {
     "url": "guide/index.html",
-    "revision": "c2b34d9517200a4f904514f343d39a5d"
+    "revision": "01b31f9f3c251d7a64c31b9a8235b34b"
   },
   {
     "url": "index.html",
-    "revision": "e76a0d82f6a19838d757474a1c25adab"
+    "revision": "8cdaa7ede2bb99094882feff74c9c1ac"
   },
   {
     "url": "jiang/index.html",
-    "revision": "9c5650c3357e73f58798e149e806297d"
+    "revision": "ce12913c6227442205e1e6a6e6a89cde"
   },
   {
     "url": "Od.png",
@@ -177,11 +177,11 @@ self.__precacheManifest = [
   },
   {
     "url": "test/index.html",
-    "revision": "ed16e2a273f8950e6239b0918961a865"
+    "revision": "235d5aa0311072ff2d058b9c6403116a"
   },
   {
-    "url": "valine.js",
-    "revision": "ed6c7919b7adec369d7666a2a66dd727"
+    "url": "Valine.js",
+    "revision": "ae0dc847603f34d461566351993ae8d2"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
